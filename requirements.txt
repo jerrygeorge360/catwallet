@@ -1,5 +1,6 @@
 requests == 2.31.0
 cytoolz==0.12.3
+cartesi-nexus==0.1.0
 eth-hash==0.7.0
 eth-typing==4.4.0
 eth-utils==4.1.1
